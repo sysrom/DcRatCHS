@@ -1,10 +1,10 @@
-##DcRatCHS
+## DcRatCHS
 Dcrat汉化
 原项目地址:https://github.com/qwqdanchun/DcRat
 汉化不易，感谢使用
 赞助?QWQ
 支付宝
-![contents](./AliPay.jpg)
+<img src="https://github.com/sysrom/DcRatCHS/AliPay.jpg" width="100px">
 微信
 ![contents](./TXPay.png)
 
