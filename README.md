@@ -4,10 +4,9 @@ Dcrat汉化
 汉化不易，感谢使用
 赞助?QWQ
 支付宝
-<img src="https://github.com/sysrom/DcRatCHS/blob/main/AliPay.jpg" width="100px">
+<img src="https://github.com/sysrom/DcRatCHS/blob/main/AliPay.jpg" width="500px">
 微信
-![contents](./TXPay.png)
-
+<img src="https://github.com/sysrom/DcRatCHS/blob/main/TXPay.png" width="500px">
 
 ## Attention
 
