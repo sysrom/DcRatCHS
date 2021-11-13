@@ -48,7 +48,7 @@
       <Value Profile="(Default)">Default</Value>
     </Setting>
     <Setting Name="Mutex" Type="System.String" Scope="User">
-      <Value Profile="(Default)">DcRatMutex_qwqdanchun</Value>
+      <Value Profile="(Default)">DcRatMutex</Value>
     </Setting>
     <Setting Name="DingDing" Type="System.Boolean" Scope="User">
       <Value Profile="(Default)">False</Value>

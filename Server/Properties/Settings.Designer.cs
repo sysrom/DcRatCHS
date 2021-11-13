@@ -205,7 +205,7 @@ namespace Server.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("DcRatMutex_qwqdanchun")]
+        [global::System.Configuration.DefaultSettingValueAttribute("DcRatMutex")]
         public string Mutex {
             get {
                 return ((string)(this["Mutex"]));

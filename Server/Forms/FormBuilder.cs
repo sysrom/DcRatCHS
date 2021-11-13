@@ -216,7 +216,7 @@ namespace Server.Forms
                         {
                             IconInjector.InjectIcon(saveFileDialog1.FileName, txtIcon.Text);
                         }
-                        MessageBox.Show("Done!", "Builder", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        MessageBox.Show("完成了!", "生成器", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         SaveSettings();
                         this.Close();
                     }
@@ -224,7 +224,7 @@ namespace Server.Forms
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message, "Builder", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show(ex.Message, "生成器", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 asmDef?.Dispose();
                 btnBuild.Enabled = true;
 
@@ -566,7 +566,7 @@ namespace Server.Forms
                     }
                     File.Delete(Temppath);
                     File.Delete(Donutpath);
-                    MessageBox.Show("Done!", "Builder", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    MessageBox.Show("完成!", "生成器", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     SaveSettings();
                     this.Close();
                 }
