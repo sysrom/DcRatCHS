@@ -1,5 +1,6 @@
 ## DcRatCHS
 Dcrat汉化
+问题反馈通道（目前仅支持discord）https://discord.gg/hpzExkXZz4
 原项目地址:https://github.com/qwqdanchun/DcRat
 汉化不易，感谢使用
 赞助?QWQ
