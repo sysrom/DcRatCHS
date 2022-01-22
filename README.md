@@ -1,5 +1,6 @@
 ## DcRatCHS
 Dcrat汉化
+因为作者未来会停止更新 所以汉化作者会转到github.com/sysrom/sysROMrc/
 问题反馈通道（目前仅支持discord）https://discord.gg/hpzExkXZz4
 原项目地址:https://github.com/qwqdanchun/DcRat
 JoinUS:https://discord.gg/VegWxfykg3
