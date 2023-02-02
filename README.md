@@ -1,16 +1,13 @@
 ## DcRatCHS
+02/03/2023 在这天3点左右有人反馈说有后门
+具体的样本URL:https://s.threatbook.com/report/file/7d876c532c552f386fabf230b8dfe2643fa832d0cd5bd09d0445c454930b5d89 https://s.threatbook.com/report/file/da705f1e1496eedeb1bd669cc392be9777fa4abaedf7fad097ef88e22620d02c
+经我个人编译 并未发现由此问题 同时这个项目我差不多已经停更(别骂,我也不知道更新什么啊)
+
 Dcrat汉化
 因为作者未来会停止更新 所以汉化作者会转到github.com/sysrom/sysROMrc/
 问题反馈通道（目前仅支持discord）https://discord.gg/hpzExkXZz4
 原项目地址:https://github.com/qwqdanchun/DcRat
 JoinUS:https://discord.gg/VegWxfykg3
-## 给汉化作者喝瓶水
-汉化不易，感谢使用
-赞助?QWQ
-支付宝
-<img src="https://github.com/sysrom/DcRatCHS/blob/main/AliPay.jpg" width="200px">
-微信
-<img src="https://github.com/sysrom/DcRatCHS/blob/main/TXPay.png" width="200px">
 
 ## Attention
 
