@@ -4,13 +4,8 @@
 经我个人编译 并未发现由此问题 同时这个项目我差不多已经停更(别骂,我也不知道更新什么啊)
 正常的DcRat样本:https://s.threatbook.com/report/file/1d4ccafaa288d3a9e752a156b44ef8184a7366a9959a4e15c9026383cdf646db
 附上正常Stub内Client正常的MD5:0071696FA6A8BF61A7B4D5F958024CDB
-
-Dcrat汉化
-因为作者未来会停止更新 所以汉化作者会转到github.com/sysrom/sysROMrc/
-问题反馈通道（目前仅支持discord）https://discord.gg/hpzExkXZz4
-原项目地址:https://github.com/qwqdanchun/DcRat
-JoinUS:https://discord.gg/VegWxfykg3
-
+## 别的¿
+无啦
 ## Attention
 
 我（簞純）对您由使用或传播等由此软件引起的任何行为和/或损害不承担任何责任。您对使用此软件的任何行为承担全部责任，并承认此软件仅用于教育和研究目的。下载本软件或软件的源代码，您自动同意上述内容。  
