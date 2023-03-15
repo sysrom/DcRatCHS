@@ -8,7 +8,6 @@ namespace Server
 {
     static class Program
     {
-
         /*
          *                         _                  _                 
          *                        | |                | |                

@@ -200,56 +200,56 @@
             // RemoteShellToolStripMenuItem
             // 
             this.RemoteShellToolStripMenuItem.Name = "RemoteShellToolStripMenuItem";
-            this.RemoteShellToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
+            this.RemoteShellToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.RemoteShellToolStripMenuItem.Text = "远程cmd";
             this.RemoteShellToolStripMenuItem.Click += new System.EventHandler(this.RemoteShellToolStripMenuItem_Click);
             // 
             // RemoteScreenToolStripMenuItem
             // 
             this.RemoteScreenToolStripMenuItem.Name = "RemoteScreenToolStripMenuItem";
-            this.RemoteScreenToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
+            this.RemoteScreenToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.RemoteScreenToolStripMenuItem.Text = "远程屏幕 ";
             this.RemoteScreenToolStripMenuItem.Click += new System.EventHandler(this.RemoteScreenToolStripMenuItem_Click);
             // 
             // RemoteCameraToolStripMenuItem
             // 
             this.RemoteCameraToolStripMenuItem.Name = "RemoteCameraToolStripMenuItem";
-            this.RemoteCameraToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
+            this.RemoteCameraToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.RemoteCameraToolStripMenuItem.Text = "远程摄像头";
             this.RemoteCameraToolStripMenuItem.Click += new System.EventHandler(this.RemoteCameraToolStripMenuItem_Click);
             // 
             // remoteRegeditToolStripMenuItem
             // 
             this.remoteRegeditToolStripMenuItem.Name = "remoteRegeditToolStripMenuItem";
-            this.remoteRegeditToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
+            this.remoteRegeditToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.remoteRegeditToolStripMenuItem.Text = "远程注册表编辑";
             this.remoteRegeditToolStripMenuItem.Click += new System.EventHandler(this.remoteRegeditToolStripMenuItem_Click);
             // 
             // FileManagerToolStripMenuItem1
             // 
             this.FileManagerToolStripMenuItem1.Name = "FileManagerToolStripMenuItem1";
-            this.FileManagerToolStripMenuItem1.Size = new System.Drawing.Size(160, 22);
+            this.FileManagerToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
             this.FileManagerToolStripMenuItem1.Text = "文件管理器";
             this.FileManagerToolStripMenuItem1.Click += new System.EventHandler(this.FileManagerToolStripMenuItem1_Click);
             // 
             // ProcessManagerToolStripMenuItem
             // 
             this.ProcessManagerToolStripMenuItem.Name = "ProcessManagerToolStripMenuItem";
-            this.ProcessManagerToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
+            this.ProcessManagerToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.ProcessManagerToolStripMenuItem.Text = "进程监视器";
             this.ProcessManagerToolStripMenuItem.Click += new System.EventHandler(this.ProcessManagerToolStripMenuItem_Click);
             // 
             // netstatToolStripMenuItem
             // 
             this.netstatToolStripMenuItem.Name = "netstatToolStripMenuItem";
-            this.netstatToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
+            this.netstatToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.netstatToolStripMenuItem.Text = "网络统计";
             this.netstatToolStripMenuItem.Click += new System.EventHandler(this.netstatToolStripMenuItem_Click);
             // 
             // RecordToolStripMenuItem
             // 
             this.RecordToolStripMenuItem.Name = "RecordToolStripMenuItem";
-            this.RecordToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
+            this.RecordToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.RecordToolStripMenuItem.Text = "记录 ？";
             this.RecordToolStripMenuItem.Click += new System.EventHandler(this.RecordToolStripMenuItem_Click);
             // 
@@ -259,7 +259,7 @@
             this.StartToolStripMenuItem1,
             this.StopToolStripMenuItem2});
             this.ProgramNotificationToolStripMenuItem.Name = "ProgramNotificationToolStripMenuItem";
-            this.ProgramNotificationToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
+            this.ProgramNotificationToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.ProgramNotificationToolStripMenuItem.Text = "计划通知";
             // 
             // StartToolStripMenuItem1
@@ -298,7 +298,7 @@
             this.SendFileToDiskToolStripMenuItem,
             this.SendFileToMemoryToolStripMenuItem});
             this.SendFileToolStripMenuItem1.Name = "SendFileToolStripMenuItem1";
-            this.SendFileToolStripMenuItem1.Size = new System.Drawing.Size(160, 22);
+            this.SendFileToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
             this.SendFileToolStripMenuItem1.Text = "发送文件";
             // 
             // fromUrlToolStripMenuItem
@@ -325,49 +325,49 @@
             // runShellcodeToolStripMenuItem
             // 
             this.runShellcodeToolStripMenuItem.Name = "runShellcodeToolStripMenuItem";
-            this.runShellcodeToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
+            this.runShellcodeToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.runShellcodeToolStripMenuItem.Text = "运行 Shellcode";
             this.runShellcodeToolStripMenuItem.Click += new System.EventHandler(this.runShellcodeToolStripMenuItem_Click);
             // 
             // MessageBoxToolStripMenuItem
             // 
             this.MessageBoxToolStripMenuItem.Name = "MessageBoxToolStripMenuItem";
-            this.MessageBoxToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
+            this.MessageBoxToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.MessageBoxToolStripMenuItem.Text = "消息框";
             this.MessageBoxToolStripMenuItem.Click += new System.EventHandler(this.MessageBoxToolStripMenuItem_Click);
             // 
             // ChatToolStripMenuItem1
             // 
             this.ChatToolStripMenuItem1.Name = "ChatToolStripMenuItem1";
-            this.ChatToolStripMenuItem1.Size = new System.Drawing.Size(160, 22);
+            this.ChatToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
             this.ChatToolStripMenuItem1.Text = "聊天";
             this.ChatToolStripMenuItem1.Click += new System.EventHandler(this.ChatToolStripMenuItem1_Click);
             // 
             // VisteWebsiteToolStripMenuItem1
             // 
             this.VisteWebsiteToolStripMenuItem1.Name = "VisteWebsiteToolStripMenuItem1";
-            this.VisteWebsiteToolStripMenuItem1.Size = new System.Drawing.Size(160, 22);
+            this.VisteWebsiteToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
             this.VisteWebsiteToolStripMenuItem1.Text = "访问网站";
             this.VisteWebsiteToolStripMenuItem1.Click += new System.EventHandler(this.VisteWebsiteToolStripMenuItem1_Click);
             // 
             // ChangeWallpaperToolStripMenuItem1
             // 
             this.ChangeWallpaperToolStripMenuItem1.Name = "ChangeWallpaperToolStripMenuItem1";
-            this.ChangeWallpaperToolStripMenuItem1.Size = new System.Drawing.Size(160, 22);
+            this.ChangeWallpaperToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
             this.ChangeWallpaperToolStripMenuItem1.Text = "换壁纸";
             this.ChangeWallpaperToolStripMenuItem1.Click += new System.EventHandler(this.ChangeWallpaperToolStripMenuItem1_Click);
             // 
             // KeyloggerToolStripMenuItem1
             // 
             this.KeyloggerToolStripMenuItem1.Name = "KeyloggerToolStripMenuItem1";
-            this.KeyloggerToolStripMenuItem1.Size = new System.Drawing.Size(160, 22);
+            this.KeyloggerToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
             this.KeyloggerToolStripMenuItem1.Text = "键盘记录器";
             this.KeyloggerToolStripMenuItem1.Click += new System.EventHandler(this.KeyloggerToolStripMenuItem1_Click);
             // 
             // FileSearchToolStripMenuItem
             // 
             this.FileSearchToolStripMenuItem.Name = "FileSearchToolStripMenuItem";
-            this.FileSearchToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
+            this.FileSearchToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.FileSearchToolStripMenuItem.Text = "文件搜索";
             this.FileSearchToolStripMenuItem.Click += new System.EventHandler(this.FileSearchToolStripMenuItem_Click);
             // 
@@ -452,7 +452,7 @@
             this.UninstallToolStripMenuItem,
             this.ClientFolderToolStripMenuItem});
             this.ClientControlToolStripMenuItem.Name = "ClientControlToolStripMenuItem";
-            this.ClientControlToolStripMenuItem.Size = new System.Drawing.Size(140, 22);
+            this.ClientControlToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.ClientControlToolStripMenuItem.Text = "客户端控制 ";
             // 
             // StopToolStripMenuItem1
@@ -497,7 +497,7 @@
             this.RebootToolStripMenuItem,
             this.LogoutToolStripMenuItem});
             this.SystemToolStripMenuItem.Name = "SystemToolStripMenuItem";
-            this.SystemToolStripMenuItem.Size = new System.Drawing.Size(140, 22);
+            this.SystemToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.SystemToolStripMenuItem.Text = "System";
             // 
             // ShutDownToolStripMenuItem
@@ -574,29 +574,29 @@
             // SchtaskInstallToolStripMenuItem
             // 
             this.SchtaskInstallToolStripMenuItem.Name = "SchtaskInstallToolStripMenuItem";
-            this.SchtaskInstallToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
-            this.SchtaskInstallToolStripMenuItem.Text = "隐藏安装";
+            this.SchtaskInstallToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.SchtaskInstallToolStripMenuItem.Text = "任务计划安装";
             this.SchtaskInstallToolStripMenuItem.Click += new System.EventHandler(this.SchtaskInstallToolStripMenuItem_Click);
             // 
             // SchtaskUninstallToolStripMenuItem
             // 
             this.SchtaskUninstallToolStripMenuItem.Name = "SchtaskUninstallToolStripMenuItem";
-            this.SchtaskUninstallToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
-            this.SchtaskUninstallToolStripMenuItem.Text = "隐藏卸载";
+            this.SchtaskUninstallToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.SchtaskUninstallToolStripMenuItem.Text = "任务计划卸载";
             this.SchtaskUninstallToolStripMenuItem.Click += new System.EventHandler(this.SchtaskUninstallToolStripMenuItem_Click);
             // 
             // normalInstallToolStripMenuItem
             // 
             this.normalInstallToolStripMenuItem.Name = "normalInstallToolStripMenuItem";
-            this.normalInstallToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
-            this.normalInstallToolStripMenuItem.Text = "正常安装";
+            this.normalInstallToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.normalInstallToolStripMenuItem.Text = "注册表安装";
             this.normalInstallToolStripMenuItem.Click += new System.EventHandler(this.normalInstallToolStripMenuItem_Click);
             // 
             // normalUninstallToolStripMenuItem
             // 
             this.normalUninstallToolStripMenuItem.Name = "normalUninstallToolStripMenuItem";
-            this.normalUninstallToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
-            this.normalUninstallToolStripMenuItem.Text = "正常卸载";
+            this.normalUninstallToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.normalUninstallToolStripMenuItem.Text = "注册表卸载";
             this.normalUninstallToolStripMenuItem.Click += new System.EventHandler(this.normalUninstallToolStripMenuItem_Click);
             // 
             // justForFunToolStripMenuItem
@@ -981,7 +981,7 @@
             // 
             // lv_hwid
             // 
-            this.lv_hwid.Text = "HWID数字激活证";
+            this.lv_hwid.Text = "HWID";
             this.lv_hwid.Width = 117;
             // 
             // lv_user
@@ -995,12 +995,12 @@
             // 
             // lv_os
             // 
-            this.lv_os.Text = "系统版本";
+            this.lv_os.Text = "系统";
             this.lv_os.Width = 179;
             // 
             // lv_version
             // 
-            this.lv_version.Text = "远控版本";
+            this.lv_version.Text = "客户端版本";
             this.lv_version.Width = 126;
             // 
             // lv_ins
@@ -1010,12 +1010,12 @@
             // 
             // lv_admin
             // 
-            this.lv_admin.Text = "Permission许可";
+            this.lv_admin.Text = "Admin权限";
             this.lv_admin.Width = 166;
             // 
             // lv_av
             // 
-            this.lv_av.Text = "杀毒";
+            this.lv_av.Text = "杀软";
             this.lv_av.Width = 136;
             // 
             // lv_ping
@@ -1024,7 +1024,7 @@
             // 
             // lv_act
             // 
-            this.lv_act.Text = "Activity Program";
+            this.lv_act.Text = "现在在看的窗口标题";
             this.lv_act.Width = 350;
             // 
             // tabPage3
